@@ -1,0 +1,5 @@
+.venv
+put.txt
+manifest.txt
+.idea
+__pycache__
